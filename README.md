@@ -42,7 +42,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NikyRosatti&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NikyRosatti&theme=dracula" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=NikyRosatti&theme=dracula" alt="GitHub Streak" />
   </a>
 </td>
 
