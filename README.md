@@ -25,8 +25,8 @@
 
 
 <!--Intro start-->
-- 🎓 I’m currently studying at UNRC and just a few months away from graduating!
-
+- 🎓 Received as a Computer Analyst at UNRC.
+- 📚 I’m currently studying B.Sc. in Computer Science at UNRC!
 - 🌟 I love learning and consider myself a very curious person. I tackle everything (multitask), but front-end development truly has my heart.
 <!--Intro end-->
 
